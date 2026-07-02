@@ -18,9 +18,7 @@
 
 ## 🧭 About
 
-I'm a Data Analyst who enjoys the moment messy spreadsheets turn into a clean story. My work sits at the intersection of **SQL for digging into data**, **Python for shaping it**, and **Power BI for making it speak** — usually for people who don't have time to read a spreadsheet themselves.
-
-Currently based in India, actively seeking **Data Analyst opportunities in Canada 🇨🇦**.
+I'm a Data Analyst who enjoys the moment messy spreadsheets turn into a clean story. My work sits at the intersection of **SQL for digging into data**, **Python for shaping it**, and **Power BI for making it speak** — usually for people who don't have time to read a spreadsheet themselves.**.
 
 ```text
 const zarana = {
