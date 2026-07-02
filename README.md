@@ -12,7 +12,7 @@
 - 🔭 Currently working on **Data Analysis Projects**
 - 🌱 Learning **Data Visualization & Advanced SQL**
 - 💼 Open to **Data Analyst opportunities in Canada 🇨🇦**
-- 📫 Reach me at: **your.email@gmail.com**
+- 📫 Reach me at: **zaranasolanki17@gmail.com**
 
 ---
 
@@ -58,7 +58,7 @@
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaranasolanki17@gmail.com)
 
 ---
 
