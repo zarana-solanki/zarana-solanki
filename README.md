@@ -78,6 +78,9 @@ const zarana = {
 **[Healthcare Waiting List Optimization Dashboard](https://github.com/zarana-solanki/healthcare-waiting-list-optimization)**
 <br/>
 Interactive Power BI dashboard analyzing hospital wait times and patient flow across specialties and case types. Used SQL + DAX to surface scheduling bottlenecks, contributing to a ~15% reduction in delays.
+**[Banking Analysis Dashboard](https://github.com/zarana-solanki/banking-analysis-dashboard)**
+<br/>
+Interactive Power BI dashboard analyzing customer loan and deposit behavior across nationality, gender, and income bands — built on a MySQL data pipeline with Python-based EDA.
 
 </td>
 <td width="30%" align="center">
