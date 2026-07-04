@@ -79,11 +79,6 @@ const zarana = {
 <br/>
 Interactive Power BI dashboard analyzing hospital wait times and patient flow across specialties and case types. Used SQL + DAX to surface scheduling bottlenecks, contributing to a ~15% reduction in delays.
 <br/>
-
-**[Banking Analysis Dashboard](https://github.com/zarana-solanki/banking-analysis-dashboard)**
-<br/>
-Interactive Power BI dashboard analyzing customer loan and deposit behavior across nationality, gender, and income bands — built on a MySQL data pipeline with Python-based EDA.
-
 </td>
 <td width="30%" align="center">
 
@@ -91,6 +86,26 @@ Interactive Power BI dashboard analyzing customer loan and deposit behavior acro
 
 </td>
 </tr>
+
+<tr>
+<td width="70%">
+
+**[Banking Analysis Dashboard](https://github.com/zarana-solanki/banking-analysis-dashboard)**
+<br/>
+Interactive Power BI dashboard analyzing customer loan and deposit behavior across nationality, gender, and income bands — built on a MySQL data pipeline with Python-based EDA.
+<br/>
+</td>
+<td width="30%" align="center">
+
+`Power BI` `DAX` `SQL`
+
+</td>
+</tr>
+
+
+
+
+
 </table>
 
 > More projects being added as I complete them — check back soon.
