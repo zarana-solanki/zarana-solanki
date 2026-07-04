@@ -97,7 +97,7 @@ Interactive Power BI dashboard analyzing customer loan and deposit behavior acro
 </td>
 <td width="30%" align="center">
 
-`Power BI` `DAX` `SQL``Python`
+`Power BI` `DAX` `SQL` `Python`
 
 </td>
 </tr>
