@@ -82,7 +82,7 @@ Interactive Power BI dashboard analyzing hospital wait times and patient flow ac
 </td>
 <td width="30%" align="center">
 
-`Power BI` `DAX` `SQL`
+`Power BI` `DAX` `SQL``Python`
 
 </td>
 </tr>
